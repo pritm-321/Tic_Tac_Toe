@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <p>Trying to make tic tac toe</p>
       </header>
     </div>
   );
